@@ -87,7 +87,7 @@ const Navbar = () => {
           </li>
           <li className='w-[160px] flex justify-between items-center  ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]'>
             <a className='flex justify-between items-center w-full text-gray-300'
-              href="https://drive.google.com/file/d/18ZJV86s8Dryuon0kowm5g2PLPNy35n3z/view?usp=sharing/" onClick ={handleClick}>
+              href="https://docs.google.com/document/d/1B8nB0aiF7ScHccfHOkH-sSBic_PmXMYennnC0IqwBkg/edit?usp=sharing/" onClick ={handleClick}>
               Email <HiOutlineMail size={38} />
             </a>
           </li>
